@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "casper"]
 	path = casper
 	url = https://git.bioconductor.org/packages/casper
-	shallow = true
-	registered = true
 [submodule "gaga"]
 	path = gaga
 	url = https://git.bioconductor.org/packages/gaga
-	shallow = true
-	registered = true
 [submodule "mombf"]
 	path = mombf
 	url = https://github.com/davidrusi/mombf
-	shallow = true
-	registered = true
