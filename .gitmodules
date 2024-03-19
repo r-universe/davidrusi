@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "casper"]
 	path = casper
-	url = https://git.bioconductor.org/packages/casper
+	url = https://github.com/davidrusi/casper
 [submodule "gaga"]
 	path = gaga
 	url = https://git.bioconductor.org/packages/gaga
