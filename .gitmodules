@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "casper"]
-	path = casper
-	url = https://github.com/davidrusi/casper
-[submodule "gaga"]
-	path = gaga
-	url = https://git.bioconductor.org/packages/gaga
 [submodule "mombf"]
 	path = mombf
 	url = https://github.com/davidrusi/mombf
